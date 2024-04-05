@@ -1,0 +1,14 @@
+C:\Users\Maksim Rodionov\Desktop\учеба\Знакомство с языками программирования (лекции)\Lesson1\Task1\bin\Debug\net7.0\Task1.exe
+C:\Users\Maksim Rodionov\Desktop\учеба\Знакомство с языками программирования (лекции)\Lesson1\Task1\bin\Debug\net7.0\Task1.deps.json
+C:\Users\Maksim Rodionov\Desktop\учеба\Знакомство с языками программирования (лекции)\Lesson1\Task1\bin\Debug\net7.0\Task1.runtimeconfig.json
+C:\Users\Maksim Rodionov\Desktop\учеба\Знакомство с языками программирования (лекции)\Lesson1\Task1\bin\Debug\net7.0\Task1.dll
+C:\Users\Maksim Rodionov\Desktop\учеба\Знакомство с языками программирования (лекции)\Lesson1\Task1\bin\Debug\net7.0\Task1.pdb
+C:\Users\Maksim Rodionov\Desktop\учеба\Знакомство с языками программирования (лекции)\Lesson1\Task1\obj\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maksim Rodionov\Desktop\учеба\Знакомство с языками программирования (лекции)\Lesson1\Task1\obj\Debug\net7.0\Task1.AssemblyInfoInputs.cache
+C:\Users\Maksim Rodionov\Desktop\учеба\Знакомство с языками программирования (лекции)\Lesson1\Task1\obj\Debug\net7.0\Task1.AssemblyInfo.cs
+C:\Users\Maksim Rodionov\Desktop\учеба\Знакомство с языками программирования (лекции)\Lesson1\Task1\obj\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Maksim Rodionov\Desktop\учеба\Знакомство с языками программирования (лекции)\Lesson1\Task1\obj\Debug\net7.0\Task1.dll
+C:\Users\Maksim Rodionov\Desktop\учеба\Знакомство с языками программирования (лекции)\Lesson1\Task1\obj\Debug\net7.0\refint\Task1.dll
+C:\Users\Maksim Rodionov\Desktop\учеба\Знакомство с языками программирования (лекции)\Lesson1\Task1\obj\Debug\net7.0\Task1.pdb
+C:\Users\Maksim Rodionov\Desktop\учеба\Знакомство с языками программирования (лекции)\Lesson1\Task1\obj\Debug\net7.0\Task1.genruntimeconfig.cache
+C:\Users\Maksim Rodionov\Desktop\учеба\Знакомство с языками программирования (лекции)\Lesson1\Task1\obj\Debug\net7.0\ref\Task1.dll
